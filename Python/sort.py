@@ -15,6 +15,8 @@ class SalesManagementSystem:
         self.quantity_left = tk.StringVar()
         self.price = tk.StringVar()
         
+
+        
         # Create labels
         tk.Label(root, text="Product Name:").grid(row=0, column=0, padx=10, pady=5)
         tk.Label(root, text="Product ID:").grid(row=1, column=0, padx=10, pady=5)
