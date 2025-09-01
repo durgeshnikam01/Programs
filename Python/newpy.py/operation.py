@@ -51,3 +51,10 @@
 # area2=2*(num1+num2)
 # print(f"The area of the rectangle is {area}")
 # print(f"The perimiter of the rectangle is {area2}")
+
+
+num=int(input("Enter a number: "))
+if num % 2 == 0:
+    print(f"{num} is an even number.")
+else:
+    print(f"{num} is an odd number.")

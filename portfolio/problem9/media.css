@@ -1,0 +1,30 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: coral;
+    transition-property:all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 1s;
+
+}
+@media(max-width:300px){
+    div{
+        background-color: blueviolet;
+    }
+}
+@media(min-width:300px)and(max-width:400px){
+    div{
+        background-color: rgb(44, 11, 74);
+    }
+}
+@media(min-width:400px)and(max-width:600px){
+    div{
+        background-color: rgb(249, 9, 9);
+    }
+}
+@media(max-width:600px){
+    div{
+        background-color: rgb(79, 169, 238);
+    }
+} 

@@ -1,0 +1,16 @@
+.loder{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 10px dotted rgb(255, 0, 4);
+    border-top: 10px dotted rgb(4, 228, 0);
+    animation: spin 1s linear infinite;
+    margin: 100px auto;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}

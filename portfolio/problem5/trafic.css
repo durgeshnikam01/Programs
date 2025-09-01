@@ -1,0 +1,14 @@
+body{
+    width: 200px;
+    height: 300px;
+    
+    background-color: rgb(22, 17, 17);
+}
+div{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    border-radius: 50%; 
+    border-style:double;
+    border-width: 3px;
+}
