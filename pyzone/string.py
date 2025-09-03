@@ -61,7 +61,109 @@
 # print(result)
 
 
-#problrm 10
-str="I love code in python"
-words= str.split()
-print(len(words))
+# #problrm 10
+# str="I love code in python"
+# words= str.split()
+# print(len(words))
+
+#problem 11
+# str= "hello World"
+# cap=str.capitalize()
+# print(cap)
+
+#problem 12 .isalpha()fun is used to check the numbers in string
+# str= "Python3"
+# if str.isalpha():
+#     print(True)
+# else:
+#     print(False)
+
+#problem 13
+# str="a b c d"
+# space= str.replace(" ","")
+# print(space)
+
+#problem 14
+# str="I love python programming"
+# words =str.split()
+# longest= max(words,key=len)
+# print(longest)
+
+#problem 15
+# str="pYthOn"
+# swp=str.swapcase()
+# print(swp)
+
+#problem 16
+# str="HelloWorld"
+# upper=0
+# lower=0
+# for ch in str:
+#     if ch.isupper():
+#         upper +=1
+#     elif ch.islower():
+#         lower +=1
+# print("UpperCase:",upper)
+# print("LowerCase:",lower)
+
+#problem 17
+# str=input("Enter the string:",)
+# upper=0
+# lower=0
+
+# for ch in str:
+#     if ch.isupper():
+#         upper +=1
+#     elif ch.islower():
+#         lower +=1
+# print("UpperCase:",upper)
+# print("LowerCase:",lower)
+
+#problem 18
+# str="banana"
+# result=""
+
+# for ch in str:
+#     if ch not in result:
+#         result += ch
+# print(result)
+
+#problem 19
+# str=input("Enter first string:")
+# str2=input("Enter second string:")
+# if str[-2:] == str2[-2:]:
+#     print("True")
+# else:print("False")
+
+#problem 20
+# str= "listen"
+# str2="silent"
+
+# if sorted(str) == sorted(str2):
+#     print(True)
+# else:
+#     print(False)
+
+#problem 21
+# str1="hello"
+# vowels="aeiouAeiou"
+# result=""
+# for ch in str1:
+#     if ch in vowels:
+#         result +="*"
+#     else:
+#         result += ch
+
+# print(result)
+
+# problem 22
+# str="An apple is on the table"
+# vowels="aeiouAEIOU"
+# words=str.split()
+# result=[]
+# for word in words:
+#     if word[0] in vowels:
+#         result.append(word)
+
+# print(result)
+
