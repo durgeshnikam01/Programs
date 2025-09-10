@@ -39,8 +39,41 @@
 # tropical=["mango","pineapple","papaya"]
 # fruits.extend(tropical)
 
+
+# ADD, REMOVE ,APPEND,ACCESS, PUSH , POP , LOOPS
 #remove items
 # fruits.remove("banana")
 #pop
-fruits=["apple","banana","cherry"]
-fruits.pop(1)
+# fruits=["apple","banana","cherry"]
+# fruits.pop(1)
+# # fruits.clear()
+# print(fruits)
+# for x in ["apple","banana","cherry"]:
+#     print(x)
+
+# PRACTICE QUESTIONS
+# fruits=["apple","banana","kiwi","graps"]
+# print(fruits[0])
+# print(fruits[-1])
+
+
+# numbers =[10,20,30,40,50]
+# print(numbers[1])
+# print(numbers[-2])
+# print(numbers[1:-1])
+# print(numbers[2:5])
+
+# numbers = [10,20,30,40,50,60,70,80,90,100]
+# print(numbers[2:7])
+
+# marks = [78, 85, 92, 67, 88, 76] 
+# skipping one item from list
+# print(marks[1::2])
+
+# char=list("PROGRAMMING")
+# print(char[:4])
+# print(numbers[9:10])
+
+# data = [100, 200, 300, 400, 500]
+# reversed_list=data[::-1]
+# print(reversed_list)
