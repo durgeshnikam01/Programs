@@ -77,3 +77,55 @@
 # data = [100, 200, 300, 400, 500]
 # reversed_list=data[::-1]
 # print(reversed_list)
+
+
+
+# LIST CHANGE ITEMS
+# fruits=["apple","cherry","banana"]
+# fruits[2]="mango"
+# print(fruits)
+
+
+# numbers = [10, 20, 30, 40, 50]
+# numbers[0]=50
+# numbers[4]=10
+# print(numbers)
+
+# colors = ["red", "blue", "green", "yellow"]
+# colors[3]="black"
+# print(colors)
+
+
+# letters = ['a', 'b', 'c', 'd', 'e']
+# letters[2]="z"
+# print(letters)
+
+# marks = [60, 70, 80, 90]
+# marks[1]=75
+# marks[2]=85
+# print(marks)
+
+# nums = [1, 2, 3, 4, 5]
+# nums[0]=20
+# nums[1]=30
+# nums[2]=40
+# print(nums)
+
+# animals = ["cat", "dog", "lion", "tiger"]
+# animals[2]="elephant"
+# animals[3]="giraffe"
+# print(animals)
+
+# prices = [100, 200, 300, 400, 500]
+# prices[2]+=50
+# print(prices)
+
+# char=list("python")
+# char[0]="J"
+# print(char)
+
+# nums = [2, 5, 8, 11, 14]
+# for i in range(len(nums)):
+#     if nums[i]%2==0:
+#         nums[i]=0
+# print(nums)
