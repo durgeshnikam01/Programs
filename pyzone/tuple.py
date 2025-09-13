@@ -99,3 +99,26 @@
 # colors = ("red", "green", "blue", "yellow")
 # # for color in colors:
 # print(enumerate(colors))
+
+# names = ("Alice", "Bob", "Charlie", "David")
+# for name in names:
+#     if name.startswith("C"):
+#         print(name)
+
+# nums = (2, 4, 6, 8, 10)
+# for num in nums:
+#     num =sum(nums)
+# print(num)
+
+# fruits = ("apple", "banana", "cherry")
+# fruit=list(fruits)
+# for x in range(len(fruit)):
+#     fruit[x] = fruit[x].upper()
+# fruits= tuple(fruit)
+# print("CAP_FRUITS=",fruit)
+
+
+# t = (("a", "b"), ("c", "d"), ("e", "f"))
+# for x in t:
+#         print(t) 
+#         break
