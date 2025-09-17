@@ -73,3 +73,53 @@
 
 #   for y in obj:
 #     print(y + ':', obj[y])
+
+# thisdict = {
+#   "brand": "Ford",
+#   "model": "Mustang",
+#   "year": 1964
+# }
+# del thisdict["model"]
+# print(thisdict)
+
+# for x in thisdict.keys():
+#   print(x)
+
+
+# student ={
+#     "name":"Durgesh Nikam",
+#     "age" :21,
+#     "grade":"A"
+# }
+# print(student.get("name"))
+
+# car = {"brand": "Toyota", "model": "Corolla", "year": 2020}
+# car["year"]=2022
+# print(car)
+
+# book = {"title": "Python", "author": "Guido"}
+# book["year"]=1991
+# print(book)
+
+# fruits = {"a": "apple", "b": "banana", "c": "cherry"}
+# fruits.pop("b")
+# print(fruits)
+
+# marks = {"Alice": 85, "Bob": 90, "Charlie": 78}
+# for x in marks.values():
+#     print(x)
+
+# for name,score in marks.items():
+#     print(f"{name}->{score}")
+
+# person = {"name": "John", "age": 30}
+# print(person)
+# person["age"]=25
+# print(person)
+
+# family = {
+#   "child1": {"name": "Tom", "age": 5},
+#   "child2": {"name": "Jerry", "age": 3}
+# }
+# print(family["child2"]["age"])
+
