@@ -123,3 +123,17 @@
 # }
 # print(family["child2"]["age"])
 
+
+# animals = {"dog": 4, "cat": 4, "spider": 8}
+# print(len(animals.keys()))
+
+# dict1 = {"a": 1, "b": 2}
+# dict2 = {"c": 3, "d": 4}
+# dict1.update(dict2)
+# print(dict1)
+
+# student = {"name": "Alice", "age": 20}
+# if "age" in student:
+#         print("Yes") 
+# else:
+#         print("No")
