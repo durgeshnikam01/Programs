@@ -155,3 +155,20 @@
 # x=(1, 2, 3)
 # x=list(x)
 # print(type(x))
+
+#DICTIONARY QUESTIONS
+# student = {"name": "Alice", "age": 20}
+# print(student["name"])
+
+# student["age"]=21
+# print(student)
+
+# student["grade"]="A"
+# print(student)
+
+# family = {
+#     "child1": {"name": "Tom", "age": 5},
+#     "child2": {"name": "Jerry", "age": 3}
+# }
+
+# print(family["child1"],"name")
