@@ -137,3 +137,21 @@
 #         print("Yes") 
 # else:
 #         print("No")
+
+# nums = (10, 20, 30, 40)
+# print(nums[1])
+
+# point = (5, 7)
+# print("x:",point[0])
+# print("y:",point[1])
+
+# animals = ("lion", "tiger", "bear")
+# for x in animals:
+#     print(x)
+
+# x=(1, 2, 2, 3, 4)
+# print(x.count(2))
+
+# x=(1, 2, 3)
+# x=list(x)
+# print(type(x))
