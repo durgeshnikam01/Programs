@@ -22,3 +22,36 @@
 #     print("Medium")
 # else:
 #     print("Large")
+
+
+# age = int(input("Enter Your Age:"))
+# nation=input("Enter Your Nationality:")
+# if age >= 18 and nation=="India":
+#     print("Eligible For Vote.")
+# else:
+#     print("You Are Not Eliigible For Vote.")
+
+# num =int(input())
+# if num % 3 == 0 or num % 5 == 0:
+#     print("Yes")
+# else:print("No")
+
+# username= "Durgesh"
+# password=1234
+# user=input("Enter user name:")
+# passw=int(input("Enter password:"))
+# if user == username and passw == password:
+#     print("Login Sucessfull")
+# else:
+#     print("Login Faild")
+
+# main = input()
+# if main.isupper():
+#     print("Uppercase")
+# elif main.islower():
+#     print("Lowercase")
+# elif main.isdigit():
+#     print("digit")
+# else:
+#     print("Special Symbol")
+
