@@ -35,3 +35,22 @@
 # for x in range(1,101):
 #     print(x)
     
+# for x in range(1,21):
+#     print(x*x)
+#     x+=1
+
+# for x in range(1,50):
+#     if x% 2==0:
+#         print(x)
+
+# num = [50,60,7,80,90]
+# larg= int(0)
+# for x in num:
+#     if x > num:
+#         larg=x
+#     print(x)
+
+# for x in range(1,10):
+#     print("*"*x)
+#     x+=1
+
